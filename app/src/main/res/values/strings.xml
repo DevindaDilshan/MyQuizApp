@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about1">Test your Java knowledge with this fun and challenging quiz app!.</string>
+    <string name="about2">See how well you know Java programming and learn new things along the way.</string>
+    <string name="email">devindadilshan8@gmail.com</string>
+    <string name="web"><a href="https://devindadilshan.netlify.app">Web</a></string>
+    <string name="linkedin"><a href="https://www.linkedin.com/in/devinda-dilshan-380443191/">LinkedIn</a></string>
+    <string name="github"><a href="https://github.com/DevindaDilshan">Github</a></string>
+    <string name="app_version">My Quiz App v1.0.0</string>
+    <string name="author">Developed by Devinda Dilshan</string>
+    <string name="copyright">Copyright @2023 | All right reserved.</string>
+</resources>
